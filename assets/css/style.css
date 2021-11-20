@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 header{
- background: #040404 url('../img/bodyimg2.jpg') top right no-repeat;
+ background: rgba(0,0,0,0.6) url('../img/bodyimg2.jpg') top right no-repeat;
  background-size: cover;
 
 }
