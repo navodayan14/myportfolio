@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 header{
- background: rgba(0,0,0,0.6) url('../img/bodyimg2.jpg') top right no-repeat;
+ background: rgba(0,0,0,0) url('../img/bodyimg2.jpg') top right no-repeat;
  background-size: cover;
 
 }
@@ -29,7 +29,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url('../img/headimg.jpg') top right no-repeat;
+  background: #040404 url('../img/bodyimg.jpg') top right no-repeat;
  background-size: cover;
   left: 0;
   right: 0;
